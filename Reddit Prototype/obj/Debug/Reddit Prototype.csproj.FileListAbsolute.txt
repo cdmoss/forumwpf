@@ -1,0 +1,117 @@
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.exe.config
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.exe
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.pdb
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignColors.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignColors.pdb
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csprojAssemblyReference.cache
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\MainWindow.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\LoginScreen.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\App.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_MarkupCompile.cache
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_MarkupCompile.lref
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\App.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\MainWindow.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\LoginScreen.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.g.resources
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit_Prototype.Properties.Resources.resources
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csproj.GenerateResource.cache
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csproj.CoreCompileInputs.cache
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csproj.CopyComplete
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.exe
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.pdb
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.SqlServer.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.core.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Buffers.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.EF6.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.Linq.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Memory.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Numerics.Vectors.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.SqlServer.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Buffers.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.dll.config
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Memory.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Numerics.Vectors.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\RegisterScreen.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_Content.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\RegisterScreen.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Comment.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Post.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\PostScreen.g.cs
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Comment.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Post.baml
+F:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\PostScreen.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.exe.config
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.exe
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Reddit Prototype.pdb
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignColors.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.core.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Buffers.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.EF6.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.Linq.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Memory.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Numerics.Vectors.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignColors.pdb
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Buffers.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Data.SQLite.dll.config
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Memory.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Numerics.Vectors.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csprojAssemblyReference.cache
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\App.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\MainWindow.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Comment.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Post.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\LoginScreen.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\PostScreen.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\RegisterScreen.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\App.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_Content.g.cs
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_MarkupCompile.cache
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype_MarkupCompile.lref
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\MainWindow.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Comment.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\User Control\Post.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\LoginScreen.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\PostScreen.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Windows\RegisterScreen.baml
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.g.resources
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit_Prototype.Properties.Resources.resources
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csproj.GenerateResource.cache
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.csproj.CopyComplete
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.exe
+E:\PROG 210 - Derek Maki - Systems Alaysis and Design\Assignments\Assignment Three - Project Management and Planning\Reddit Prototype\Reddit Prototype\obj\Debug\Reddit Prototype.pdb
